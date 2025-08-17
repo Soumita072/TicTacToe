@@ -15,3 +15,9 @@ This project allows **two players** (X and O) to play against each other on a gr
   - Blue for Player X  
   - Red for Player O  
 - 📢 **Status bar** showing current turn, winner, or draw  
+
+## ⚡ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Soumita072/TicTacToe.git
